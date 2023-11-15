@@ -1,0 +1,75 @@
+    1  cd C:/Users/student/Desktop/praca
+    2  git clone https://github.com/Dawid-Stepniak/lekcja25.10
+    3  cd lekcja25.10
+    4  code .
+    5  php artisan serve
+    6  php artisan serv
+    7  php -v
+    8  export PATH=$PATH:C:/xampp/php
+    9  php -v
+   10  php -v
+   11  cd C:/Users/student/Desktop/praca/lekcja25.10
+   12  code .
+   13  php artisan serv
+   14  composer
+   15  composer
+   16  cp .env.example .env
+   17  git clone https://github.com/CichockiAdrian/zsk_PO.git
+   18  git init
+   19  git config --global --edit
+   20  git config --global --list
+   21  git config credencial
+   22  git push
+   23  cd zsk_PO
+   24  git push
+   25  laravel new project_5
+   26  php artisan serv
+   27  php artisa migrate
+   28  php artisan migrate
+   29  php artisan migrate
+   30  php artisan migrate
+   31  php artisan serv
+   32  laravel reqire vendor
+   33  laravel instal vendor
+   34  laravel install vendor
+   35  composer install
+   36  composer update
+   37  composer require vendor
+   38  git push
+   39  git config --global --list
+   40  git config --global --edit
+   41  git config --global --list
+   42  git config --system --unset credential.helper
+   43  cd project_4_jet
+   44  php artisan lang:publish
+   45  php artisan lang:pl
+   46  [200~composer dumpautoload -o
+   47          php artisan config:clear
+   48  coposer require laravel-lang/common
+   49  composer require laravel-lang/common
+   50  php artisan lan:add pl
+   51  git add .
+   52  git commit -m"walidacja formularza w project_4"
+   53  git config --global credential.helper manager
+   54  git commit -m"walidacja formularza w project_4"
+   55  git status
+   56  php artisan serve
+   57  cd desktop
+   58  laravel new test
+   59  laravel new project_1
+   60  node -v
+   61  composer -v
+   62  laravel new project
+   63  git init
+   64  php artisan make:controller UserControllerForm
+   65  php artisan serv
+   66  cd project
+   67  php artisan serv
+   68  php artisan make:controller UserControllerForm
+   69  php artisan serv
+   70  php artisan make:controller CarController
+   71  cd ..
+   72  git add .
+   73  git commit -m "Add project laravel - kartkowka"
+   74  git push
+   75  history >> historia.txt
